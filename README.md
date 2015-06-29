@@ -1,2 +1,4 @@
-# hackerrank
-java
+# Hackerrank Answers
+
+ - java
+ - bash
